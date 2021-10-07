@@ -1,0 +1,6 @@
+defer -> na tag script do HTML, faz com que o arquivo em JS, carrega depois que toda a página estiver carregada.
+
+position:absolute -> consigo definir onde o elemento vai ficar em relação a tela, nesse caso, coloquei 'bottom' 0, para deixar embaixo
+
+keyup => no add.Listener, vou dar o comando para uma tecla, nesse caso quando é precionada e solta.
+
